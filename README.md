@@ -93,7 +93,6 @@ A demonstration video is included in this repo
 
 ✅ Servo gripper implemented
 
-⚠ Pick-and-drop functionality requires further optimization for reliable object grasping.
 
 ---
 
